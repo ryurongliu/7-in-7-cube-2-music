@@ -191,25 +191,25 @@ var R_notes = [["R'", 0.1329746410896373],
 
 
 function preload() {
-    side_a_l = loadSound('/7-in-7-cube-2-music/audio/op1/side_a_l.wav');
-    side_a_r = loadSound('/7-in-7-cube-2-music/audio/op1/side_a_r.wav');
-    track_1 = loadSound('/7-in-7-cube-2-music/audio/op1/track_1.wav');
-    track_2 = loadSound('/7-in-7-cube-2-music/audio/op1/track_2.wav');
-    track_3 = loadSound('/7-in-7-cube-2-music/audio/op1/track_3.wav');
-    track_4 = loadSound('/7-in-7-cube-2-music/audio/op1/track_4.wav');
+    side_a_l = loadSound('/7-in-7-project-7/audio/op1/side_a_l.wav');
+    side_a_r = loadSound('/7-in-7-project-7/audio/op1/side_a_r.wav');
+    track_1 = loadSound('/7-in-7-project-7/audio/op1/track_1.wav');
+    track_2 = loadSound('/7-in-7-project-7/audio/op1/track_2.wav');
+    track_3 = loadSound('/7-in-7-project-7/audio/op1/track_3.wav');
+    track_4 = loadSound('/7-in-7-project-7/audio/op1/track_4.wav');
 
-    a_l_img = loadImage('/7-in-7-cube-2-music/img/all_l.png');
-    a_l_binned = loadImage('/7-in-7-cube-2-music/img/all_l_binned.png');
-    a_r_img = loadImage('/7-in-7-cube-2-music/img/all_r.png');
-    a_r_binned = loadImage('/7-in-7-cube-2-music/img/all_r_binned.png');
-    t1_img = loadImage('/7-in-7-cube-2-music/img/1.png');
-    t1_binned = loadImage('/7-in-7-cube-2-music/img/1_binned.png');
-    t2_img = loadImage('/7-in-7-cube-2-music/img/2.png');
-    t2_binned = loadImage('/7-in-7-cube-2-music/img/2_binned.png');
-    t3_img = loadImage('/7-in-7-cube-2-music/img/3.png');
-    t3_binned = loadImage('/7-in-7-cube-2-music/img/3_binned.png');
-    t4_img = loadImage('/7-in-7-cube-2-music/img/4.png');
-    t4_binned = loadImage('/7-in-7-cube-2-music/img/4_binned.png');
+    a_l_img = loadImage('/7-in-7-project-7/img/all_l.png');
+    a_l_binned = loadImage('/7-in-7-project-7/img/all_l_binned.png');
+    a_r_img = loadImage('/7-in-7-project-7/img/all_r.png');
+    a_r_binned = loadImage('/7-in-7-project-7/img/all_r_binned.png');
+    t1_img = loadImage('/7-in-7-project-7/img/1.png');
+    t1_binned = loadImage('/7-in-7-project-7/img/1_binned.png');
+    t2_img = loadImage('/7-in-7-project-7/img/2.png');
+    t2_binned = loadImage('/7-in-7-project-7/img/2_binned.png');
+    t3_img = loadImage('/7-in-7-project-7/img/3.png');
+    t3_binned = loadImage('/7-in-7-project-7/img/3_binned.png');
+    t4_img = loadImage('/7-in-7-project-7/img/4.png');
+    t4_binned = loadImage('/7-in-7-project-7/img/4_binned.png');
 }
 
 function setup() {
